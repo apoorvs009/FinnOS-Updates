@@ -11,7 +11,7 @@ color 0B
 mode con: cols=140 lines=45
 
 :: FINN OS VERSION
-set CURRENT_VERSION=1.0.0
+set CURRENT_VERSION=1.0.1
 
 :: CHECK FOR UPDATES
 call :CheckForUpdates
